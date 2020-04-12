@@ -1,1 +1,2 @@
 Getting started with sourcetree
+Now I'm adding a second line
